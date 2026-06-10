@@ -40,3 +40,5 @@ agents:
 repos:
     .fullsend:
         enabled: false
+    voting-app:
+        enabled: true
